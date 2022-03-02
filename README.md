@@ -1,11 +1,8 @@
-<h1 align="center">Hi 👋, I'm Shavon</h1>
-<h3 align="center">I am a Software Engineer based in Chicago. I am proficient in both Frontend development and Backend development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and React. As a software engineer, I aspire to help bring creative projects to life and demonstrate my commitment to developing world-class software solutions for your company.</h3>
+<h3 align="center">I am a FullStack Software Engineer. As a software engineer, I aspire to help bring creative projects to life and demonstrate my commitment to developing world-class and accessible software solutions for your company.</h3>
 
-- 🔭 I’m currently working on **Mental Health Social Media APP**
+- 🔭 I’m currently working on **A Mental Health Social Media APP**
 
 - 🌱 I’m currently learning **Typescript**
-
-- 🤝 I’m looking for help with **Tailwind**
 
 - 👨‍💻 All of my projects are available at [https://shavonharris-dev.netlify.app/](https://shavonharris-dev.netlify.app/)
 
