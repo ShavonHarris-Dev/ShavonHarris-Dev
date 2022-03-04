@@ -1,6 +1,6 @@
 ![](https://media-exp1.licdn.com/dms/image/C4D16AQGORx4-SobyhQ/profile-displaybackgroundimage-shrink_350_1400/0/1643821497670?e=1651708800&v=beta&t=vR7iTnwy0gqRdu34GGdE468Ei833-ZJLF5HcJt0NDEc)
 ### Hi there 👋🏿, My name is Shavon
-I'm Shavon, a full-stack engineer 👩🏿‍💻 proficient in Javascript, Node.js and React. I am looking to join a team that values quality code, diverse thought, and kindness above all!
+I'm Shavon, a former educator turned full-stack engineer 👩🏿‍💻 proficient in Javascript, Node.js and React. I am looking to join a team that values quality code, diverse thought, and kindness above all!
   
 
 ## My Skill Set  
