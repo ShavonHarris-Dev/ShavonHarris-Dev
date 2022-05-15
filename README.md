@@ -1,43 +1,50 @@
-![](https://media-exp1.licdn.com/dms/image/C4D16AQGORx4-SobyhQ/profile-displaybackgroundimage-shrink_350_1400/0/1643821497670?e=1651708800&v=beta&t=vR7iTnwy0gqRdu34GGdE468Ei833-ZJLF5HcJt0NDEc)
+<!-- ![](https://media-exp1.licdn.com/dms/image/C4D16AQGORx4-SobyhQ/profile-displaybackgroundimage-shrink_350_1400/0/1643821497670?e=1651708800&v=beta&t=vR7iTnwy0gqRdu34GGdE468Ei833-ZJLF5HcJt0NDEc) -->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif" width="250">
+  </div>
+
 ### Hi there 👋🏿, My name is Shavon
 I'm Shavon, a former educator turned full-stack engineer 👩🏿‍💻 proficient in Javascript, Node.js and React. I am looking to join a team that values quality code, diverse thought, and kindness above all!
-  
+
+
+
+- 🔭 I’m currently working on [Lyrical](https://github.com/ShavonHarris-Dev/Lyrical)  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-### Frontend  
+### Frontend Technologies  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chai.png" alt="Chai" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mocha.png" alt="Mocha" height="75" />  
 </div>
+
 </td><td valign="top" width="33%">
 
 
-### Backend  
+### Backend Technologies  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="75" />  
 </div>
 
 </td><td valign="top" width="33%">
 
 ### DevOps  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="75" />  
 </div>
 
 </td></tr></table>  
+
+<br/>  
 
 <br/>  
 
@@ -58,14 +65,14 @@ I'm Shavon, a former educator turned full-stack engineer 👩🏿‍💻 profici
         <p><strong> Google Authentication, HTML, CSS, Javascript, Materialize, Node.js, Express.js and Passport </strong> - StoryBoard- A web app that lets you share stories with your close friends.</p>
     </td>
     <td width="33%" valign="top">
-      <h3><a id="user-content-portfolio" class="anchor" aria-hidden="true" href="#portfolio"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Portfolio</h3>
+      <h3><a id="user-content-portfolio" class="anchor" aria-hidden="true" href="#portfolio"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Personal Portfolio</h3>
         <br>
         <p> <a href="https://shavonharris-dev.netlify.app/" rel="nofollow">Visit Site</a></p>
         <br>
         <a href="https://shavonharris-dev.netlify.app/" rel="nofollow">
             <img src="https://media0.giphy.com/media/p2Aziptb8rLy29mXXe/giphy.gif" width="100%" alt="Portfolio" data-canonical-src="https://media0.giphy.com/media/p2Aziptb8rLy29mXXe/giphy.gif" style="max-width:100%;">
         </a>
-        <p><strong>HTML5, CSS3, Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+        <p><strong>React | Javascript </strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
   </tr>
 </tbody></table>
@@ -73,37 +80,7 @@ I'm Shavon, a former educator turned full-stack engineer 👩🏿‍💻 profici
       </div>
   </div>
   
-  ### Check out my code to see how my coding skills have grown!
-<article>
-      <div>
-  <div>
-<table>
-  <tbody><tr>
-    <td width="50%" valign="top">
-      <h3><a id="user-content-travelaraorg" class="anchor" aria-hidden="true" href="#travelaraorg"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="1" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>React Airbnb App (April 2022) </h3>
-        <br>
-        <p><a href="https://github.com/ShavonHarris-Dev/React-Airbnb-App" rel="nofollow">Visit Site</a></p>
-        <br>
-        <a href="https://github.com/ShavonHarris-Dev/React-Airbnb-App" rel="nofollow">
-            <img src="https://media.giphy.com/media/FF3MdWsHFrp8sEwMJx/giphy.gif" width="100%" alt="StoryBoard" data-canonical-src="https://media.giphy.com/media/FF3MdWsHFrp8sEwMJx/giphy.gif" style="max-width:100%;">
-        </a>
-        <p></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a id="user-content-portfolio" class="anchor" aria-hidden="true" href="#portfolio"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>ThinkfulBNB (November 2021)</h3>
-        <br>
-        <p> <a href="https://thinfulbnb.netlify.app/" rel="nofollow">Visit Site</a></p>
-        <br>
-        <a href="https://github.com/ShavonHarris-Dev/ThinkfulBNB/blob/main/index.html" rel="nofollow">
-            <img src="https://media.giphy.com/media/UfpAovE666ww0Ekr7Q/giphy.gif" width="100%" alt="Airbnb" data-canonical-src="https://media.giphy.com/media/UfpAovE666ww0Ekr7Q/giphy.gif" style="max-width:100%;">
-        </a>
-        <p></p>
-    </td>
-  </tr>
-</tbody></table>
-</article>
-      </div>
-  </div>
+  
 
 
 ## Connect with me  
