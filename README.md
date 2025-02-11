@@ -8,7 +8,7 @@ I'm Shavon, a former educator turned full-stack engineer 👩🏿‍💻 profici
 
 
 
-- 🔭 I’m currently working on [Lyrical](https://github.com/ShavonHarris-Dev/Lyrical)  
+- 🔭 I’m currently working a top secret project  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
